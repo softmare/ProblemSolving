@@ -4,3 +4,7 @@
 **/*.ilk
 **/.vscode
 **/temp.*
+
+# Added by cargo
+
+/target
