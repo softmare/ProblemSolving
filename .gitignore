@@ -1,10 +1,14 @@
+*
+!/**/
+!*.*
+
 **/*.exe
 **/*.obj
 **/*.pdb
 **/*.ilk
 **/.vscode
 **/temp.*
-
+**/*.plist
 # Added by cargo
 
 /target
