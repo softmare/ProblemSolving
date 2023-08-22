@@ -9,6 +9,7 @@
 **/.vscode
 **/temp.*
 **/*.plist
+**/.DS_Store
 # Added by cargo
 
 /target
